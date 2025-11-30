@@ -1,3 +1,6 @@
+NAME:RAJAKA SUPRAJA
+COLLEGE NAME:SRINIVASA RAMANUJAN INSTITUTE OF TECHNOLOGY(SRIT),ANANTAPUR.
+CONTACT NUMBER: 7670875917
 📌 Employee Attendance Management System
 
 A full-stack MERN application that allows employees to mark attendance, view logs, and enables admins to manage employees and attendance records.
