@@ -181,8 +181,8 @@ npm start
 ### Manager Reports
 ![ManReports](ManReports.jpeg)
 
-### Recording / Demo Video
-![Recording](Recording.mp4)
+### Recording / Preview Video
+![Recording](preview.mp4)
 
 
 
