@@ -204,6 +204,7 @@ Method	Endpoint	Description
 GET	/api/admin/employees	List all employees
 GET	/api/admin/today	Today's attendance
 DELETE	/api/admin/user/:id	Delete employee
+
 📄 License
 
 This project is free to use for educational and project submission purposes.
