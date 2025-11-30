@@ -182,7 +182,7 @@ npm start
 ![ManReports](ManReports.jpeg)
 
 ### Recording / Demo Video
-![Recording](Recording.jpeg)
+![Recording](Recording.mp4)
 
 
 
